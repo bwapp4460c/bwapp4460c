@@ -26,5 +26,5 @@ You can click the Preview link to take a look at your changes.
 
 
 <div align="center">
-<p><img align="left" alt="b0n21en5" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=b0n21en5&show_icons=true&layout=compact&langs_count=8&theme=algolia" style="max-width: 100%;" /></p>
+<p><img alt="b0n21en5" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=b0n21en5&show_icons=true&layout=compact&langs_count=8&theme=algolia" style="max-width: 100%;" /></p>
   </div>
