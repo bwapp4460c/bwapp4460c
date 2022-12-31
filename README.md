@@ -27,4 +27,5 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=b0n21en5&theme=dark" alt="bwapp4460c" /></p>
+ ![Github stats](https://github-readme-stats.vercel.app/api?username=b0n21en5)
   </div>
