@@ -22,6 +22,8 @@
 
 <img width="50%" height="60%" align="right"   src="https://holopin.me/b0n21en5" >
 
+A bit about Myself, I am <b>Bikash Nath</b>, I've completed <b>Bachelor of Commerce Degree</b> from Tripura University, As of now, I am focused on <b>web development</b> and continously learning new skills . ⚡
+
 <!---
 bwapp4460c/bwapp4460c is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
