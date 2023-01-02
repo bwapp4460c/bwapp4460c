@@ -15,14 +15,8 @@
 <table>
 <tr>
  <td><img align="left" alt="b0n21en5" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bwapp4460c&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" style="max-width: 100%;" /></td>
-<td><img align="left" alt="bwapp4460c" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bwapp4460c&show_icons=true&layout=compact&langs_count=8&theme=algolia" style="max-width: 100%;" /></td>
 </tr>
 </table>
-
-
-<img width="50%" align="right"   src="https://holopin.me/b0n21en5" >
-
-A bit about Myself, I am <b>Bikash Nath</b>, I've completed <b>Bachelor of Commerce Degree</b> from Tripura University, As of now, I am focused on <b>web development</b> and continously learning new skills . ⚡
 
 <!---
 bwapp4460c/bwapp4460c is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
