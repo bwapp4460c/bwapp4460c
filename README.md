@@ -20,7 +20,7 @@
 </table>
 
 
-<img width="50%" height="60%" align="right"   src="https://holopin.me/b0n21en5" >
+<img width="50%" align="right"   src="https://holopin.me/b0n21en5" >
 
 A bit about Myself, I am <b>Bikash Nath</b>, I've completed <b>Bachelor of Commerce Degree</b> from Tripura University, As of now, I am focused on <b>web development</b> and continously learning new skills . ⚡
 
