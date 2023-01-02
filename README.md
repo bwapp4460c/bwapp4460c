@@ -20,7 +20,7 @@
 </table>
 
 
-<img width="40%" align="right"   src={(https://holopin.me/b0n21en5)](https://holopin.io/@b0n21en5)} >
+<img width="40%" align="right"   src="https://holopin.me/b0n21en5" >
 
 <!---
 bwapp4460c/bwapp4460c is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
