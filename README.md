@@ -14,7 +14,8 @@
 
 <table>
 <tr>
- <td><img align="left" alt="b0n21en5" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bwapp4460c&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true" style="max-width: 100%;" /></td>
+ <td><img align="left" alt="bwapp4460c" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bwapp4460c&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true" style="max-width: 100%;" /></td>
+ <td><img align="left" alt="bwapp4460c" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bwapp4460c&show_icons=true&layout=compact&langs_count=8&theme=highcontrast&include_all_commits=true&count_private=true" style="max-width: 100%;" /></td>
 
 </tr>
 </table>
