@@ -15,7 +15,7 @@
 <table>
 <tr>
  <td><img align="left" alt="b0n21en5" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bwapp4460c&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" style="max-width: 100%;" /></td>
- [![GitHub Streak](https://streak-stats.demolab.com/?user=b0n21en5&theme=dark)](https://git.io/streak-stats)
+ ![GitHub Streak](https://streak-stats.demolab.com/?user=b0n21en5&theme=dark)
 </tr>
 </table>
 
